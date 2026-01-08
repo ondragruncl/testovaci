@@ -12,6 +12,7 @@ namespace ConsoleApp4
         {
             Console.WriteLine("ahoj");
             Console.WriteLine("hello world");
+            Console.WriteLine("třetí řádek")
         }
     }
 }
