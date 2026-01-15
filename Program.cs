@@ -13,7 +13,7 @@ namespace ConsoleApp4
             Console.WriteLine("ahoj");
             Console.WriteLine("hello world");
             Console.WriteLine("třetí radek");
-            Console.WriteLine("pátej řádek");
+            Console.WriteLine("čtvrtej řádek");
         }
     }
 }
